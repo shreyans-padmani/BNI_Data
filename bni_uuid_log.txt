@@ -1,0 +1,156 @@
+[2025-06-16 19:35:16] 🚀 Starting Selenium login process...
+[2025-06-16 19:35:17] 🌐 Opening login page...
+[2025-06-16 19:35:18] 🔐 Waiting for login form...
+[2025-06-16 19:35:18] 📄📄 Final page snapshot:
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><style type="text/css">@font-face{font-family:Notification;src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot);src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot?#iefixs3g3t9) format("embedded-opentype"),url(/login/651771e1df95c807c99608188d0a4287.woff) format("woff"),url(/login/0b4ac1dc75df35e169b70d7719afe4cc.ttf) format("truetype"),url(/login/5bee74caefdf9d0a834915f6c8eeb259.svg#notification) format("svg");font-weight:400;font-style:normal}.notification-container{box-sizing:border-box;position:fixed;top:0;right:0;z-index:999999;width:320px;padding:0 15px;max-height:calc(100% - 30px);overflow-x:hidden;overflow-y:auto}.notification{box-sizing:border-box;padding:15px 15px 15px 58px;border-radius:2px;color:#fff;background-color:#ccc;box-shadow:0 0 12px #999;cursor:pointer;font-size:1em;line-height:1.2em;position:relative;opacity:.9;margin-top:15px}.notification .title{font-size:1em;line-height:1.2em;font-weight:700;margin:0 0 5px}.notification:focus,.notification:hover{opacity:1}.notification-enter{visibility:hidden;transform:translate3d(100%,0,0)}.notification-enter.notification-enter-active{visibility:visible;transform:translateZ(0);transition:all .4s}.notification-leave{visibility:visible;transform:translateZ(0)}.notification-leave.notification-lea
+[2025-06-16 19:35:19] ⏳ Waiting for dashboard to load fully...
+[2025-06-16 19:35:19] ✅ Selenium login successful.
+[2025-06-16 19:35:19] ✅ Driver initialized and login successful.
+[2025-06-16 19:35:19] 📥 Fetching user IDs without UUIDs...
+[2025-06-16 19:35:19] 📊 Total users fetched: 67549
+[2025-06-16 19:35:19] 
+🔄 Processing 1/67549: user_id = 197629
+[2025-06-16 19:35:19] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197629
+[2025-06-16 19:35:25] 📍 Final URL after redirect: https://www.bniconnectglobal.com/login/?message=
+[2025-06-16 19:35:25] ⚠️ UUID not found in URL for user_id=197629
+[2025-06-16 19:35:26] 🔎 Current page source preview:
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><style type="text/css">@font-face{font-family:Notification;src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot);src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot?#iefixs3g3t9) format("embedded-opentype"),url(/login/651771e1df95c807c99608188d0a4287.woff) format("woff"),url(/login/0b4ac1dc75df35e169b70d7719afe4cc.ttf) format("truetype"),url(/login/5bee74caefdf9d0a834915f6c8eeb259.svg#notification) format("svg");font-weight:400;font-style:normal}.notification-container{box-sizing:border-box;position:fixed;top:0;right:0;z-index:999999;width:320px;padding:0 15px;max-height:calc(100% - 30px);overflow-x:hidden;overflow-y:auto}.notification{box-sizing:border-box;padding:15px 15px 15px 58px;border-radius:2px;color:#fff;background-color:#ccc;box-shadow:0 0 12px #999;cursor:pointer;font-size:1em;line-
+[2025-06-16 19:35:26] ⚠️ No UUID found.
+[2025-06-16 19:35:26] ⚠️ Skipping update — no UUID for user_id=197629
+[2025-06-16 19:35:26] 
+🔄 Processing 2/67549: user_id = 197735
+[2025-06-16 19:35:26] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197735
+[2025-06-16 19:35:32] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=20975a6f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:35:32] ✅ UUID extracted for user_id=197735: 20975a6f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:35:32] 🔍 UUID found: 20975a6f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:35:32] ✅ Updated user_id=197735 with UUID=20975a6f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:35:32] 
+🔄 Processing 3/67549: user_id = 197738
+[2025-06-16 19:35:32] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197738
+[2025-06-16 19:35:57] 🚀 Starting Selenium login process...
+[2025-06-16 19:35:58] 🌐 Opening login page...
+[2025-06-16 19:36:02] 🔐 Waiting for login form...
+[2025-06-16 19:36:02] 📄📄 Final page snapshot:
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><style type="text/css">@font-face{font-family:Notification;src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot);src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot?#iefixs3g3t9) format("embedded-opentype"),url(/login/651771e1df95c807c99608188d0a4287.woff) format("woff"),url(/login/0b4ac1dc75df35e169b70d7719afe4cc.ttf) format("truetype"),url(/login/5bee74caefdf9d0a834915f6c8eeb259.svg#notification) format("svg");font-weight:400;font-style:normal}.notification-container{box-sizing:border-box;position:fixed;top:0;right:0;z-index:999999;width:320px;padding:0 15px;max-height:calc(100% - 30px);overflow-x:hidden;overflow-y:auto}.notification{box-sizing:border-box;padding:15px 15px 15px 58px;border-radius:2px;color:#fff;background-color:#ccc;box-shadow:0 0 12px #999;cursor:pointer;font-size:1em;line-height:1.2em;position:relative;opacity:.9;margin-top:15px}.notification .title{font-size:1em;line-height:1.2em;font-weight:700;margin:0 0 5px}.notification:focus,.notification:hover{opacity:1}.notification-enter{visibility:hidden;transform:translate3d(100%,0,0)}.notification-enter.notification-enter-active{visibility:visible;transform:translateZ(0);transition:all .4s}.notification-leave{visibility:visible;transform:translateZ(0)}.notification-leave.notification-lea
+[2025-06-16 19:36:04] ⏳ Waiting for dashboard to load fully...
+[2025-06-16 19:36:04] ✅ Selenium login successful.
+[2025-06-16 19:36:04] ✅ Driver initialized and login successful.
+[2025-06-16 19:36:04] 📥 Fetching user IDs without UUIDs...
+[2025-06-16 19:36:05] 📊 Total users fetched: 67548
+[2025-06-16 19:36:05] 
+🔄 Processing 1/67548: user_id = 197629
+[2025-06-16 19:36:05] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197629
+[2025-06-16 19:36:14] 📍 Final URL after redirect: https://www.bniconnectglobal.com/login/?message=
+[2025-06-16 19:36:14] ⚠️ UUID not found in URL for user_id=197629
+[2025-06-16 19:36:14] 🔎 Current page source preview:
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><style type="text/css">@font-face{font-family:Notification;src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot);src:url(/login/c0d3c94cd6112550c51d7d1ed13b9da1.eot?#iefixs3g3t9) format("embedded-opentype"),url(/login/651771e1df95c807c99608188d0a4287.woff) format("woff"),url(/login/0b4ac1dc75df35e169b70d7719afe4cc.ttf) format("truetype"),url(/login/5bee74caefdf9d0a834915f6c8eeb259.svg#notification) format("svg");font-weight:400;font-style:normal}.notification-container{box-sizing:border-box;position:fixed;top:0;right:0;z-index:999999;width:320px;padding:0 15px;max-height:calc(100% - 30px);overflow-x:hidden;overflow-y:auto}.notification{box-sizing:border-box;padding:15px 15px 15px 58px;border-radius:2px;color:#fff;background-color:#ccc;box-shadow:0 0 12px #999;cursor:pointer;font-size:1em;line-
+[2025-06-16 19:36:14] ⚠️ No UUID found.
+[2025-06-16 19:36:14] ⚠️ Skipping update — no UUID for user_id=197629
+[2025-06-16 19:36:14] 
+🔄 Processing 2/67548: user_id = 197738
+[2025-06-16 19:36:14] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197738
+[2025-06-16 19:36:23] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=211fe58e-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:23] ✅ UUID extracted for user_id=197738: 211fe58e-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:23] 🔍 UUID found: 211fe58e-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:23] ✅ Updated user_id=197738 with UUID=211fe58e-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:23] 
+🔄 Processing 3/67548: user_id = 197755
+[2025-06-16 19:36:23] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197755
+[2025-06-16 19:36:29] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=2173a33f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:29] ✅ UUID extracted for user_id=197755: 2173a33f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:29] 🔍 UUID found: 2173a33f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:29] ✅ Updated user_id=197755 with UUID=2173a33f-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:29] 
+🔄 Processing 4/67548: user_id = 197759
+[2025-06-16 19:36:29] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197759
+[2025-06-16 19:36:35] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=207e21ef-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:35] ✅ UUID extracted for user_id=197759: 207e21ef-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:35] 🔍 UUID found: 207e21ef-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:35] ✅ Updated user_id=197759 with UUID=207e21ef-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:35] 
+🔄 Processing 5/67548: user_id = 197764
+[2025-06-16 19:36:35] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197764
+[2025-06-16 19:36:41] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=213ffb67-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:41] ✅ UUID extracted for user_id=197764: 213ffb67-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:41] 🔍 UUID found: 213ffb67-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:41] ✅ Updated user_id=197764 with UUID=213ffb67-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:41] 
+🔄 Processing 6/67548: user_id = 197777
+[2025-06-16 19:36:41] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197777
+[2025-06-16 19:36:48] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=21afe248-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:48] ✅ UUID extracted for user_id=197777: 21afe248-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:48] 🔍 UUID found: 21afe248-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:48] ✅ Updated user_id=197777 with UUID=21afe248-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:48] 
+🔄 Processing 7/67548: user_id = 197784
+[2025-06-16 19:36:48] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197784
+[2025-06-16 19:36:55] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=2087a787-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:55] ✅ UUID extracted for user_id=197784: 2087a787-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:55] 🔍 UUID found: 2087a787-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:55] ✅ Updated user_id=197784 with UUID=2087a787-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:36:55] 
+🔄 Processing 8/67548: user_id = 197792
+[2025-06-16 19:36:55] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197792
+[2025-06-16 19:37:01] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:01] ✅ UUID extracted for user_id=197792: 2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:01] 🔍 UUID found: 2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:01] ✅ Updated user_id=197792 with UUID=2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:01] 
+🔄 Processing 9/67548: user_id = 197799
+[2025-06-16 19:37:01] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197799
+[2025-06-16 19:37:07] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:07] ✅ UUID extracted for user_id=197799: 2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:07] 🔍 UUID found: 2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:07] ✅ Updated user_id=197799 with UUID=2184970b-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:07] 
+🔄 Processing 10/67548: user_id = 197800
+[2025-06-16 19:37:07] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197800
+[2025-06-16 19:37:13] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=211a95f8-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:13] ✅ UUID extracted for user_id=197800: 211a95f8-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:13] 🔍 UUID found: 211a95f8-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:13] ✅ Updated user_id=197800 with UUID=211a95f8-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:13] 
+🔄 Processing 11/67548: user_id = 197801
+[2025-06-16 19:37:13] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197801
+[2025-06-16 19:37:20] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=203a2d5d-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:20] ✅ UUID extracted for user_id=197801: 203a2d5d-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:20] 🔍 UUID found: 203a2d5d-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:20] ✅ Updated user_id=197801 with UUID=203a2d5d-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:20] 
+🔄 Processing 12/67548: user_id = 197803
+[2025-06-16 19:37:20] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197803
+[2025-06-16 19:37:26] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=21b48887-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:26] ✅ UUID extracted for user_id=197803: 21b48887-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:26] 🔍 UUID found: 21b48887-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:26] ✅ Updated user_id=197803 with UUID=21b48887-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:26] 
+🔄 Processing 13/67548: user_id = 197807
+[2025-06-16 19:37:26] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197807
+[2025-06-16 19:37:32] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=214dc2c4-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:32] ✅ UUID extracted for user_id=197807: 214dc2c4-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:32] 🔍 UUID found: 214dc2c4-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:32] ✅ Updated user_id=197807 with UUID=214dc2c4-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:32] 
+🔄 Processing 14/67548: user_id = 197819
+[2025-06-16 19:37:32] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197819
+[2025-06-16 19:37:39] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=20be03f1-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:39] ✅ UUID extracted for user_id=197819: 20be03f1-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:39] 🔍 UUID found: 20be03f1-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:39] ✅ Updated user_id=197819 with UUID=20be03f1-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:39] 
+🔄 Processing 15/67548: user_id = 197822
+[2025-06-16 19:37:39] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197822
+[2025-06-16 19:37:45] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:45] ✅ UUID extracted for user_id=197822: 20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:45] 🔍 UUID found: 20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:45] ✅ Updated user_id=197822 with UUID=20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:45] 
+🔄 Processing 16/67548: user_id = 197837
+[2025-06-16 19:37:45] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197837
+[2025-06-16 19:37:51] 📍 Final URL after redirect: https://www.bniconnectglobal.com/web/member/?locale=en_IN&uuId=20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:51] ✅ UUID extracted for user_id=197837: 20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:51] 🔍 UUID found: 20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:51] ✅ Updated user_id=197837 with UUID=20392754-5fff-11e8-a2ac-0050568c2b4f
+[2025-06-16 19:37:51] 
+🔄 Processing 17/67548: user_id = 197845
+[2025-06-16 19:37:51] 🌐 Navigating to profile URL: https://www.bniconnectglobal.com/web/secure/networkHome?userId=197845
